@@ -17,9 +17,3 @@ Este é um projeto de **calculadora simples** desenvolvido em **Java**. Ele perm
 - **Java 8+**
 - **Scanner (java.util.Scanner)** para entrada de dados do usuário.
 
-## 🚀 Como Executar o Projeto
-
-### 1️⃣ Clonar o repositório:
-```bash
-git clone https://github.com/seu-usuario/calculadora-java.git
-cd calculadora-java
